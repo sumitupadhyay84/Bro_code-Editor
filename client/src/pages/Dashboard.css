@@ -1,0 +1,20 @@
+/* 
+
+.heading{
+    display: flex;
+    align-items: center;
+    font-Size: 4.5rem;
+    margin: 20px;
+}
+
+.vtn{
+    margin-top: 28px;
+    padding: 4px 12px;
+    border-radius: 2px;
+    box-shadow: 20px;
+    color: #442543;
+}
+
+.vtn:hover{
+    background-color: #6a4f6d;
+} */
